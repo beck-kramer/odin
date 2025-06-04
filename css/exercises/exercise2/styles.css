@@ -1,6 +1,11 @@
 .pink {
     background-color: rgb(244, 177, 209);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
+    height: 180px;
+    width: 180px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 50px;
 }
 
 #two {
