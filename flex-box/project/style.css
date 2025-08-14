@@ -4,3 +4,26 @@
     padding: 24px;
 }
 
+.line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-right;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+}
