@@ -58,5 +58,27 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
+
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-color: blue;
+}
+
+
 
