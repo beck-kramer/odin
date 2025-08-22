@@ -68,17 +68,42 @@
     justify-content: center;
     align-items: center;
 }
+.info {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 0px;
+}
 
-.boxes {
+.blue {
     display: flex;
     justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
-img {
-    width: 200px;
-    height: 200px;
+.boxes {
+    width: 90px;
+    height: 90px;
+    border: 2px solid;
     border-color: blue;
 }
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.captions {
+    font-size: 10px;
+    width: 90px;
+    height: 90px;
+}
+
+
 
 
 
